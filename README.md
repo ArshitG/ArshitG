@@ -12,10 +12,38 @@
 </div>
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=arshitg&style=flat-square&color=blue" alt=""/>
-  <h1>
+  <h3>
   Hello viewers
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</h3>
+  <p>
+    Welcome to my GitHub Profile. I am Arshit Gilhotra, entry-level Data Analyst. Here, You'll find links to my other social profiles and the projects that I have completed.
+  </p>
+  <h3>
+  About me
+  </h3>
+  <p>
+    :handshake: I am always working on new projects related to Analytics and Visualization. Ping me if you want to collaborate!
+  </p>
+  <p>
+   📊 I love Visualization. I am good with Tableau , currently learning more about PowerBI.
+  </p>
+  <p>
+    📚 I like working with Data and converting it into meaningful insights.
+  </p>
+  
+  <h3>
+    Currently Working On
+  </h3>
+  <p>
+   📖 Data Analyst With Python Path on Dataquest.io    
+  </p>
+  <p>
+    💪 Data Visualization with Tableau and PowerBI
+  </p>
+  <p>
+    📑 Web-Scraping Project about BasketBall References.
+  </p>
 </div>
 
 
