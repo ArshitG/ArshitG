@@ -42,7 +42,7 @@
     💪 Data Visualization with Tableau and PowerBI
   </p>
   <p>
-    📑 Web-Scraping Project about BasketBall References.
+    📑 Web-Scraping Project on a BasketBall Website
   </p>
 </div>
 
